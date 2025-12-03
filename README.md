@@ -17,7 +17,7 @@
 
 ## 💼 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,googlecloud,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,googlecollab,vscode" />
 </p>
 
 ---
