@@ -1,4 +1,4 @@
-<h1 align="center">📘 Gnaneshwar Swargam</h1>
+<h1 align="center">📘 Gnaneshwar</h1>
 <h3 align="center">B.Tech ECE | Learner | Tech Enthusiast</h3>
 
 <p align="center">
