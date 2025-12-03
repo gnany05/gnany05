@@ -1,4 +1,4 @@
-<h1 align="center">🤖 GNANESHWAR 2.0 — SYSTEM ONLINE</h1>
+<h1 align="center">🤖 GNANESHWAR  — SYSTEM ONLINE</h1>
 <h3 align="center">ECE Student | AI-Powered Learning Machine</h3>
 
 <p align="center">
